@@ -117,3 +117,5 @@ dmypy.json
 *.xls
 *.csv
 *.pdf
+*.hwp
+*.zip
