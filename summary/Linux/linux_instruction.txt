@@ -1,0 +1,11 @@
+sudo apt update // sudo ... 관리자 권한의 업데이트
+	
+
+securable : 가상머신이 돌아갈 수 있는지 확인 可
+
+dpkg - devian package 패키지 다운로드
+.deb - 리눅스관련확장자.. 리눅스는 확장자가 필요없음
+
+리눅스 파일은 서로 의존성, 종속성 문제를 갖기 떄문에 설치를 필요.
+ 
+man ls
